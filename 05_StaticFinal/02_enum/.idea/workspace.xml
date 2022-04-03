@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a61ba8-fda3-447f-963f-46459cfe236f" name="Changes" comment="HomeWork 5.2 04.09.21 v4 return int">
+      <change afterPath="$PROJECT_DIR$/../../09_ArraysAndCollections/homework_9.2/TodoList/src/main/java/TodoCommands.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xdikuX45nbhq2vmB94i4MuUIXy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../09_ArraysAndCollections/homework_9.2/TodoList" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.Main" />
+      <module name="02_enum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.skillbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a61ba8-fda3-447f-963f-46459cfe236f" name="Changes" comment="" />
+      <created>1630691512720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630691512720</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeWork 5.2 04.09.21">
+      <created>1630711246716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630711246716</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeWork 5.2 04.09.21 v2">
+      <created>1630711782313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630711782313</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeWork 5.2 04.09.21 v3">
+      <created>1630787791017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630787791017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomeWork 5.2 04.09.21 v4 return int">
+      <created>1630884988625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630884988625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork 5.2 04.09.21" />
+    <MESSAGE value="HomeWork 5.2 04.09.21 v2" />
+    <MESSAGE value="HomeWork 5.2 04.09.21 v3" />
+    <MESSAGE value="HomeWork 5.2 04.09.21 v4 return int" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 5.2 04.09.21 v4 return int" />
+  </component>
+</project>

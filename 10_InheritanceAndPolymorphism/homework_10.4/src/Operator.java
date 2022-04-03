@@ -1,0 +1,10 @@
+public class Operator extends Worker {
+
+    public Operator(int salary) {
+        super(salary);
+    }
+
+    public String getPosition() {
+        return "Operator";
+    }
+}
